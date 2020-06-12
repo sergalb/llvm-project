@@ -92,6 +92,7 @@ add_llvm_component_library(LLVMAnalysis
   Trace.cpp
   TypeBasedAliasAnalysis.cpp
   TypeMetadataUtils.cpp
+  TestTaskAnalysis.cpp
   ScopedNoAliasAA.cpp
   ValueLattice.cpp
   ValueLatticeUtils.cpp
