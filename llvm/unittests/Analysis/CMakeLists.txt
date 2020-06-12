@@ -31,6 +31,7 @@ add_llvm_unittest(AnalysisTests
   VectorFunctionABITest.cpp
   SparsePropagation.cpp
   TargetLibraryInfoTest.cpp
+  TestTaskAnalysisTest.cpp
   TBAATest.cpp
   UnrollAnalyzerTest.cpp
   ValueLatticeTest.cpp
